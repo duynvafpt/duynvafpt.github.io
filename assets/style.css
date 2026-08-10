@@ -27,36 +27,6 @@ nav a{opacity:.7}nav a:hover{opacity:1}.menu{display:none;border:0;background:no
 h2 .researcher {
     color: #8ea500;
 }
-.info-cards {
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-}
-
-.info-card {
-    background: #f5f6ef;
-    border-radius: 16px;
-    padding: 20px 22px;
-    min-height: 70px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    box-sizing: border-box;
-}
-
-.info-number {
-    font-size: 22px;
-    font-weight: 600;
-    line-height: 1;
-    color: #46536a;
-    margin-bottom: 6px;
-}
-
-.info-title {
-    font-size: 15px;
-    line-height: 1.3;
-    color: #46536a;
-}
 .copy{font-size:17px;color:#51545a}.muted{color:#777}
 .dark{max-width:none;background:#111317;color:#f7f7f3;padding-left:max(24px,calc((100vw - 1180px)/2 + 24px));padding-right:max(24px,calc((100vw - 1180px)/2 + 24px))}
 .dark .label{color:#999}
