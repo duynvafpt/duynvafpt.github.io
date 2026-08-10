@@ -1,15 +1,17 @@
-# duynvafpt.github.io
+# Nguyen Vo Anh Duy — Academic Website V3
 
-Academic/research personal website for Duy NV.
+Personal academic/research website for GitHub Pages.
 
-## Quick edit
-1. Open `index.html`.
-2. Replace `YOUR_EMAIL@example.com`.
-3. Replace the sample publication entries.
-4. Replace the photo placeholder with your own image if desired.
-5. Update the About/Research text with your official affiliation and biography.
+## Upload
+Upload these items to the root of the `duynvafpt.github.io` repository:
+- `index.html`
+- `README.md`
+- `assets/`
+  - `style.css`
+  - `script.js`
+  - `profile.jpg`
 
-## Publish on GitHub Pages
-Create a repository named exactly `duynvafpt.github.io`, upload the contents of this folder to the `main` branch, then enable GitHub Pages from **Settings → Pages → Build and deployment → Deploy from a branch → main → / (root)**.
+The portrait is already included as `assets/profile.jpg`.
 
-The site is static HTML/CSS/JS, so no build system is required.
+Google Scholar:
+https://scholar.google.com/citations?user=HkHdLrEAAAAJ&hl=vi
